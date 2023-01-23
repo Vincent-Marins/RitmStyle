@@ -1,0 +1,20 @@
+{
+    "editor.fontFamily": "'Source Code Pro'",
+    "editor.fontSize": 14.8,
+    "editor.letterSpacing": 0.2,
+    "editor.fontLigatures": true,
+    // "editor.tabSize": 2,
+    "editor.mouseWheelZoom": true,
+    "editor.smoothScrolling": true,
+    "editor.minimap.autohide": true,
+    "editor.cursorBlinking": "phase",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.lineNumbers": "on",
+    "breadcrumbs.enabled": false,
+    "workbench.editor.showTabs": false,
+    "editor.renderLineHighlight": "none",
+    "terminal.integrated.cwd": "C:\\Users\\skx\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\Command Prompt",
+    "editor.guides.indentation": false,
+    "editor.parameterHints.enabled": true
+}                                                                           
